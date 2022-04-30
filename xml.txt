@@ -1,0 +1,7 @@
+<class>
+   <student>
+     <firstname>ted</firstname>
+     <lastname>bob</lastname>
+     <nickname></nicname>
+  </student>
+</class>
