@@ -1,6 +1,2 @@
 Fist Clone Project
 Firt clone Project update
-<<<<<<< HEAD
-hi
-First Branch update
-
